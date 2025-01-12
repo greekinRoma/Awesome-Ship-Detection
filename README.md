@@ -1,1 +1,1 @@
-# Awesom-Ship-Detection
+# Awesome-Ship-Detection
